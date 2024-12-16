@@ -12,19 +12,19 @@ I integrate engineering, design, and software development to deliver innovative 
 
 ### 🛠️ Skills and Technologies  
 
-####### **Engineering and Design**  
+###### **Engineering and Design**  
 - **CAD/BIM Software:** AutoCAD, Revit, AutoCAD Electrical.  
 
-####### **Analysis and Simulation**  
+###### **Analysis and Simulation**  
 - **Structural:** CYPECAD, SAP2000, ETABS.  
 - **Electrical:** ETAP, Dialux, Neplan, DigSilent.  
 
-####### **Software Development**  
+###### **Software Development**  
 - **Programming Languages:** Python, JavaScript, C++, C, Rust, TypeScript, Java.  
 - **Frameworks and Libraries:** ReactJS, Node.js, Next.js, NestJS.  
 - **Databases:** PostgreSQL, MySQL, SQLite.  
 
-####### **Infrastructure and Tools**  
+###### **Infrastructure and Tools**  
 - **Cloud and DevOps:** AWS, Docker, Kubernetes.  
 - **Systems and Automation:** Linux, Bash, Arduino, Raspberry Pi.  
 
