@@ -17,7 +17,7 @@ Integro la ingeniería, el diseño y el desarrollo de software para ofrecer solu
 
 ## **Ingeniería y Diseño**
 
-- **Software CAD/BIM:** AutoCAD, Revit, Solidworks y AutoCAD Electrical, AutoCAD Civil 3D.
+- **Software CAD/BIM:** AutoCAD, Revit, Solidworks y AutoCAD Electrical.
 
 ## **Análisis y Simulación**  
 
