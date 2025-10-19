@@ -6,4 +6,4 @@ Civil and Electrical Engineer, Designer, and Software Developer, specialized in 
 * LinkedIn: https://linkedin.com/in/jean-carlos-tr/
 * GitHub: https://github.com/jeancarlos-ing
 * Website: https://jeancarlos.dev
-* Email: jeancarlos-ingenieria@gmail.com.com
+* Email: jeancarlos.ingenieria@gmail.com.com
